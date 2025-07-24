@@ -7,3 +7,10 @@ Publicly available code for using neural network dimensionality reduction algori
 # What This Does
  
 This method performs dimensionality reduction of an a dataset using a neural network t-SNE approach. A subset of data (5000 samples) is reduced using t-SNE, and a neural network is trained to learn this reduction. The remaining data are then reduced using this network.
+
+
+# License
+nectar is free software licensed under the GNU Public License (v3).
+
+# Aknowledgments
+This work was supported by Cancer Research UK [C58393/A24034] and the UK’s National Measurement System programs.
